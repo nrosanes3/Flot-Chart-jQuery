@@ -1,3 +1,3 @@
-# Flot-Chart-jQuery
+# Flot Chart jQuery
 
-[View Website](https://raw.githack.com/nrosanes3/Flot-Chart-jQuery/main/flotsteps.php)
+Flot Chart using MySQL table and PHP script.
